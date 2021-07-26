@@ -1,4 +1,4 @@
 # TextToHex
-HexToText Python App
+TextToHex Python App
 
 Simple App To Convert Text To Hexadecimal
